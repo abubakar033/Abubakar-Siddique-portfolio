@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Introduction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #3498db;
+            color: #fff;
+            text-align: center;
+            padding: 30px;
+        }
+
+        h1 {
+            font-size: 36px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+
+        p {
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Hi, I'm [Your Name]</h1>
+        <p>Welcome to my personal website</p>
+    </header>
+
+    <div class="container">
+        <h2>About Me</h2>
+        <p>
+            Hello! I'm [Your Name], and I'm passionate about [your interests/hobbies]. I have [X years of experience] in [your field or industry], and I enjoy [mention something you enjoy doing].
+        </p>
+
+        <h2>My Interests</h2>
+        <p>
+            Some of my interests include:
+            <ul>
+                <li>[Interest 1]</li>
+                <li>[Interest 2]</li>
+                <li>[Interest 3]</li>
+            </ul>
+        </p>
+
+        <h2>Contact Me</h2>
+        <p>
+            Feel free to get in touch with me at [your email address].
+        </p>
+    </div>
+</body>
+</html>
